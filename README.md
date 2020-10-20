@@ -1,6 +1,6 @@
 # Machine Learning Engineer Nanodegree
 
-The course focused on learning advanced machine learning techniques and algorithms and how to package and deploy models to a production environment. These, while gaining practical experience using Amazon SageMaker to deploy trained models to a web application and evaluate their performance. The followign were the main three focuses:
+The course focused on learning advanced machine learning techniques and algorithms and how to package and deploy models to a production environment. These, while gaining practical experience using Amazon SageMaker to deploy trained models to a web application and evaluate their performance. The following were the main three focuses:
 
 ## [Capstone Project](https://github.com/Omar-Martinez/Machine-Learning-Engineer-Nanodegree-/tree/master/Capstone)
 
